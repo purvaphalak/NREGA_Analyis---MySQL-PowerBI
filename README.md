@@ -40,6 +40,8 @@ In the initial data preparation phase, we performed the following tasks:
 
 ## ✨ Page 1: Job Cards & Workers Analysis
 
+![Screenshot 2024-10-24 152943](https://github.com/user-attachments/assets/8bbdd433-f4db-4446-922a-61c1ef5caad5)
+
 ### ➤ 1. Total Workers & Active Workers (KPIs)
 
 Total Workers: 269M
@@ -127,6 +129,8 @@ Question Answered:
 
 ## ✨ Page 2:  Budget & Expenditure Analysis 
 
+![Screenshot 2024-10-24 153017](https://github.com/user-attachments/assets/7be98d88-84bd-4996-b6d9-3319ca6ba9fe)
+
 The "Budget & Expenditure Analysis" dashboard provides a detailed breakdown of how NREGA (Mahatma Gandhi National Rural Employment Guarantee Act) funds are being spent across different states in India, the allocation of these funds, and which states and regions are more active in using the NREGA budget. Here's a simple explanation of each part with key insights:
 
 ### ➤ 1. Total Expenditure (KPI)
@@ -202,6 +206,8 @@ This dashboard shows how well different states are utilizing the NREGA funds and
 
 
 ## ✨ Page 3: Works & Employement Analysis
+
+![Screenshot 2024-10-24 153039](https://github.com/user-attachments/assets/151048a1-a332-4fbf-8bb3-e2f8211ac0f8)
 
 The "Work & Employment Analysis" dashboard provides insights into employment, wage distribution, and work completion under the NREGA (Mahatma Gandhi National Rural Employment Guarantee Act) scheme across various states in India. Here's a simple breakdown of each section along with key insights:
 
@@ -290,7 +296,9 @@ States like Madhya Pradesh, Karnataka, and Bihar are excelling in completing NRE
 - This dashboard reflects how effectively different states are utilizing NREGA funds, providing employment, and completing infrastructure projects, but also highlights areas where improvements can be made, especially in offering more workdays and addressing wage disparities.
 
 
-## ✨ Page 3: Overall State-wise Analysis
+## ✨ Page 4: Overall State-wise Analysis
+
+![Screenshot 2024-10-24 153105](https://github.com/user-attachments/assets/73fd6658-19d9-4535-8b94-640f28d81410)
 
 The "Overall State-wise Analysis" dashboard presents an in-depth comparison of various metrics related to the NREGA program across different Indian states. The following sections explain each column and key findings:
 
