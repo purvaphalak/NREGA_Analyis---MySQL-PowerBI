@@ -1,6 +1,6 @@
-# NREGA_Analyis---PowerBI
+# NREGA ( NAtional Rural Employment Government Act) Analysis || Power-BI
 
-## 💠 Project Overview
+### 💠 Project Overview
 
 - The NREGA (National Rural Employment Guarantee Act) aims to enhance the livelihood security of people in rural areas by guaranteeing 100 days of wage employment in a financial year to a rural household whose adult members volunteer to do unskilled manual work.
 
@@ -8,7 +8,7 @@
 
 - By examining the data, the project aims to highlight the effectiveness and reach of the NREGA scheme, especially among marginalized communities like SC/ST and differently-abled workers. Understanding these patterns helps in assessing the scheme's impact on rural employment and economic stability. The insights drawn from this analysis can guide policy improvements and ensure better implementation of the NREGA scheme. 
 
-### Data Source 
+### 💠 Data Source 
 
 - The data was provided as part of the tasks assigned during the internship, enabling in-depth analysis of employment and expenditure trends within the NREGA scheme.
 
@@ -18,7 +18,7 @@
 - PowerBI- Creating Dashboards, Data Visualization
 
 
-## 💠 Data Preparation
+### 💠 Data Preparation
 
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
@@ -26,7 +26,7 @@ In the initial data preparation phase, we performed the following tasks:
 3. Data cleaning and formatting
 
 
-## 💠 Project dashboard includes:-
+### 💠 Project dashboard includes:-
 
 ➵ Page 1: Job Cards & Workers Analysis
 
