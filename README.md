@@ -22,19 +22,13 @@
 
 ### Data Source 
 
-Sales Data : The primary dataset is used for this analysis is the " Adidas_sales_data. xlsx", which contains Adidas sales data for different retailers, including Foot Locker, Walmart, and Sports Direct, over a period of time in 2020. 
+- The data was provided as part of the tasks assigned during the internship, enabling in-depth analysis of employment and expenditure trends within the NREGA scheme.
 
-### Tools 
+### 💠 Tools 
 
 - Excel - Data Cleaning
 - PowerBI- Creating Dashboards, Data Visualization
 
-### Project dashboard includes:-
-
-- Page 1: Job Cards & Workers Analysis
-- Page 2: Budget & Expenditure Analysis 
-- Page 3: Works & Employement Analysis
-- Page 4: Overall State-wise Analysis
 
  ### Data Preparation
 
@@ -49,6 +43,13 @@ EDA involved exploring the sales data to answer key questions, such as:
 1. What is the overall sales trend?
 2. Which products are top sellers?
 3. What are the peak sales periods?
+
+### Project dashboard includes:-
+
+➵ Page 1: Job Cards & Workers Analysis
+➵ Page 2: Budget & Expenditure Analysis 
+➵ Page 3: Works & Employement Analysis
+➵ Page 4: Overall State-wise Analysis
 
 ## 💠 Insights & Findings :-
 
@@ -397,69 +398,69 @@ States like Tamil Nadu, Rajasthan, and Uttar Pradesh have large approved budgets
 
 - This NREGA analysis provides an in-depth look at the program’s impact on employment and project completion across Indian states. Key findings reveal:
 
-#### ➟ High Worker Engagement: 
+#### ➼ High Worker Engagement: 
 States like Uttar Pradesh, Tamil Nadu, and Rajasthan have the highest number of workers enrolled and active in NREGA, showing the program’s reach in these states.
 
-#### ➟ Project Initiation and Completion: 
+#### ➼ Project Initiation and Completion: 
 A large number of projects have been initiated, particularly in Uttar Pradesh and Bihar, which helps create employment and support rural infrastructure development.
 
-#### ➟ Budget Utilization: 
+#### ➼ Budget Utilization: 
 Tamil Nadu, Rajasthan, and Uttar Pradesh have high budget allocations and significant expenditure, indicating strong financial commitment to the program.
 
-#### ➟ Inclusion Efforts: 
+#### ➼ Inclusion Efforts: 
 Tamil Nadu and Andhra Pradesh are leading in employing differently-abled individuals, promoting inclusivity within the NREGA workforce.
 
 ## 💠 Impact of NREGA on Employment and Economic Stability
 
 NREGA plays a critical role in providing rural employment and fostering economic stability by:
 
-#### ➡ Employment Generation: 
+#### ➼ Employment Generation: 
 By engaging millions of workers, NREGA helps reduce rural unemployment. Active states like Uttar Pradesh and Madhya Pradesh show the program’s potential in sustaining rural livelihoods.
 
-#### ➡ Income Stability: 
+#### ➼ Income Stability: 
 NREGA’s wage payments provide a steady income source, which helps in meeting daily needs and improves the financial security of rural households. States with high active participation indicate a larger positive economic impact.
 
-#### ➡ Infrastructure Improvement: 
+#### ➼ Infrastructure Improvement: 
 Through various works taken up under NREGA, such as road building, water conservation, and other infrastructure projects, rural areas benefit from improved amenities and facilities.
 
-#### ➡ Inclusivity: 
+#### ➼ Inclusivity: 
 The program has provisions for including differently-abled individuals, as seen in Tamil Nadu and Andhra Pradesh. This strengthens community ties and promotes equal employment opportunities.
 Recommendations for Policy Improvements.
 
 - To further enhance the effectiveness of NREGA, some policy recommendations include:
 
-#### ➡ Increase in Budget Allocation for Underperforming States: 
+#### ➼ Increase in Budget Allocation for Underperforming States: 
 Some states with low budgets could benefit from increased funding to boost participation and infrastructure development.
 
-#### ➡ Focus on Timely Completion of Projects: 
+#### ➼ Focus on Timely Completion of Projects: 
 Many projects are still ongoing, particularly in states like Uttar Pradesh. Additional resources could be allocated to ensure timely project completion to improve efficiency and worker retention.
 
-#### ➡ Higher Wages for Workers: 
+#### ➼ Higher Wages for Workers: 
 Wage rates vary across states, with some offering very low amounts. A minimum wage standard could be established to provide fair compensation for all workers.
 
-#### ➡ Improved Data Tracking: 
+#### ➼ Improved Data Tracking: 
 Regular monitoring of active versus inactive workers and project progress can help identify and address bottlenecks faster.
 
-#### ➡ Encourage Inclusivity Across States: 
+#### ➼ Encourage Inclusivity Across States: 
 While some states focus on employing differently-abled workers, others can adopt similar practices to ensure broader inclusion.
 
 ## 💠 Future Scope of Analysis
 
 - To build on this analysis, future studies can focus on:
 
-#### ➡ Impact of NREGA on Household Income:
+#### ➼ Impact of NREGA on Household Income:
 Studying how NREGA wages influence the overall economic status of rural households, particularly in poverty reduction.
 
-#### ➡ Long-term Effects on Rural Infrastructure: 
+#### ➼ Long-term Effects on Rural Infrastructure: 
 Examining how the infrastructure projects completed under NREGA affect rural development and access to essential services over time.
 
-#### ➡ State-wise Comparisons of Program Efficiency:
+#### ➼ State-wise Comparisons of Program Efficiency:
 A deeper dive into why certain states like Tamil Nadu and Uttar Pradesh perform better could help other states adopt best practices.
 
-#### ➡ Gender-based Employment Impact:
+#### ➼ Gender-based Employment Impact:
 Understanding the gender distribution of workers and its impact on female empowerment in rural areas.
 
-#### ➡ Feedback and Satisfaction Survey: 
+#### ➼ Feedback and Satisfaction Survey: 
 Conducting surveys with NREGA workers to gather insights on program effectiveness, worker satisfaction, and areas for improvement.
 
 - This analysis provides a clear view of how NREGA supports rural employment and economic stability, while identifying opportunities for enhancing its impact through improved policy, budget allocation, and inclusion strategies.
