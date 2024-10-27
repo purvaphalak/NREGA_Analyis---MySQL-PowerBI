@@ -1,16 +1,4 @@
 # NREGA_Analyis---PowerBI
-# Adidas Sales Analysis
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Data Source](#data-source)
-- [Tools](#tools)
-- [Data Preparation](#data-preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Insights & Findings](#insights-&-findings)
-- [Recommendations](#recommendations)
-- [Conclusion](#conclusion)
-
 
 ## 💠 Project Overview
 
@@ -37,12 +25,6 @@ In the initial data preparation phase, we performed the following tasks:
 2. Handling missing values.
 3. Data cleaning and formatting
 
-### Exploratory Data Analysis
-
-EDA involved exploring the sales data to answer key questions, such as:
-1. What is the overall sales trend?
-2. Which products are top sellers?
-3. What are the peak sales periods?
 
 ## 💠 Project dashboard includes:-
 
