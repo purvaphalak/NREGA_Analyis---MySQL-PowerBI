@@ -7,9 +7,9 @@
 - [Tools](#tools)
 - [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Insights](#insights)
+- [Insights & Findings](#insights-&-findings)
 - [Recommendations](#recommendations)
-- [Dashboard](#dashboard)
+- [Conclusion](#conclusion)
 
 
 ## 💠 Project Overview
@@ -30,7 +30,7 @@
 - PowerBI- Creating Dashboards, Data Visualization
 
 
- ### Data Preparation
+## 💠 Data Preparation
 
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
@@ -44,14 +44,17 @@ EDA involved exploring the sales data to answer key questions, such as:
 2. Which products are top sellers?
 3. What are the peak sales periods?
 
-### Project dashboard includes:-
+## 💠 Project dashboard includes:-
 
 ➵ Page 1: Job Cards & Workers Analysis
+
 ➵ Page 2: Budget & Expenditure Analysis 
+
 ➵ Page 3: Works & Employement Analysis
+
 ➵ Page 4: Overall State-wise Analysis
 
-## 💠 Insights & Findings :-
+## 💠 Insights & Findings
 
 ## ✨ Page 1: Job Cards & Workers Analysis
 
