@@ -14,11 +14,11 @@
 
 ## 💠 Project Overview
 
-➤ The NREGA (National Rural Employment Guarantee Act) aims to enhance the livelihood security of people in rural areas by guaranteeing 100 days of wage employment in a financial year to a rural household whose adult members volunteer to do unskilled manual work.
+- The NREGA (National Rural Employment Guarantee Act) aims to enhance the livelihood security of people in rural areas by guaranteeing 100 days of wage employment in a financial year to a rural household whose adult members volunteer to do unskilled manual work.
 
-➤ This project analyzes NREGA data to gain insights into job card distribution, worker participation, and expenditure patterns across various Indian states.
+- This project analyzes NREGA data to gain insights into job card distribution, worker participation, and expenditure patterns across various Indian states.
 
-➤ By examining the data, the project aims to highlight the effectiveness and reach of the NREGA scheme, especially among marginalized communities like SC/ST and differently-abled workers. Understanding these patterns helps in assessing the scheme's impact on rural employment and economic stability. The insights drawn from this analysis can guide policy improvements and ensure better implementation of the NREGA scheme. 
+- By examining the data, the project aims to highlight the effectiveness and reach of the NREGA scheme, especially among marginalized communities like SC/ST and differently-abled workers. Understanding these patterns helps in assessing the scheme's impact on rural employment and economic stability. The insights drawn from this analysis can guide policy improvements and ensure better implementation of the NREGA scheme. 
 
 ### Data Source 
 
@@ -397,16 +397,16 @@ States like Tamil Nadu, Rajasthan, and Uttar Pradesh have large approved budgets
 
 - This NREGA analysis provides an in-depth look at the program’s impact on employment and project completion across Indian states. Key findings reveal:
 
-#### ➡ High Worker Engagement: 
+#### ➟ High Worker Engagement: 
 States like Uttar Pradesh, Tamil Nadu, and Rajasthan have the highest number of workers enrolled and active in NREGA, showing the program’s reach in these states.
 
-#### ➡ Project Initiation and Completion: 
+#### ➟ Project Initiation and Completion: 
 A large number of projects have been initiated, particularly in Uttar Pradesh and Bihar, which helps create employment and support rural infrastructure development.
 
-#### ➡ Budget Utilization: 
+#### ➟ Budget Utilization: 
 Tamil Nadu, Rajasthan, and Uttar Pradesh have high budget allocations and significant expenditure, indicating strong financial commitment to the program.
 
-#### ➡ Inclusion Efforts: 
+#### ➟ Inclusion Efforts: 
 Tamil Nadu and Andhra Pradesh are leading in employing differently-abled individuals, promoting inclusivity within the NREGA workforce.
 
 ## 💠 Impact of NREGA on Employment and Economic Stability
