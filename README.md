@@ -281,16 +281,16 @@ The "Work & Employment Analysis" dashboard provides insights into employment, wa
   
 ### ✅ Overall Findings:
 
-#### ➡ Average Employment Days:
+#### ➼ Average Employment Days:
 Many states still need to increase the average days of employment per household to meet the program’s potential (45.74 days).
 
-#### ➡ Inclusion of Differently-Abled Workers: 
+####  ➼ Inclusion of Differently-Abled Workers: 
 Tamil Nadu, Andhra Pradesh, and Telangana are leading in employing differently-abled workers, making the program inclusive for marginalized groups.
 
-#### ➡ Wage Rate Differences: 
+#### ➼ Wage Rate Differences: 
 There is a wide variation in wage rates across states, with Manipur leading, while others like Odisha and Tamil Nadu are on the lower end.
 
-#### ➡ Work Completion Success: 
+#### ➼ Work Completion Success: 
 States like Madhya Pradesh, Karnataka, and Bihar are excelling in completing NREGA works, contributing significantly to rural development.
 
 - This dashboard reflects how effectively different states are utilizing NREGA funds, providing employment, and completing infrastructure projects, but also highlights areas where improvements can be made, especially in offering more workdays and addressing wage disparities.
@@ -376,13 +376,13 @@ The "Overall State-wise Analysis" dashboard presents an in-depth comparison of v
 
 ### ✅ Overall Insights:
 
-#### ➡ High Participation States: 
+#### ➼ High Participation States: 
 Uttar Pradesh, Tamil Nadu, Andhra Pradesh, and Madhya Pradesh are the leading states in terms of worker engagement, project initiation, and completion. They are successfully utilizing the NREGA program to provide employment and improve infrastructure.
 
-#### ➡ Inclusion of Differently-Abled Workers: 
+#### ➼ Inclusion of Differently-Abled Workers: 
 Tamil Nadu and Andhra Pradesh are notable for including differently-abled workers, which highlights their commitment to inclusivity.
 
-#### ➡ Budget and Spending: 
+#### ➼ Budget and Spending: 
 States like Tamil Nadu, Rajasthan, and Uttar Pradesh have large approved budgets and have been spending significantly to support the program. This indicates a well-funded and operationally efficient approach to NREGA implementation.
 
 - This dashboard helps in understanding how each state is performing in terms of employment generation, budget utilization, and project completion, providing a comprehensive view of NREGA's impact across India.
