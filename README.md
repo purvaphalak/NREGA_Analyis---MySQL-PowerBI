@@ -1,4 +1,4 @@
-# NREGA ( NAtional Rural Employment Government Act) Analysis || Power-BI
+# NREGA ( National Rural Employment Guarantee Act) Analysis || Power-BI
 
 ### 💠 Project Overview
 
