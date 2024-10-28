@@ -42,14 +42,14 @@ In the initial data preparation phase, we performed the following tasks:
 
 ![Screenshot 2024-10-28 090115](https://github.com/user-attachments/assets/0bfdc39d-1382-40d9-bb90-4b4a743258ab)
 
-### ➤ 1. Total Workers & Active Workers (KPIs)
+### 1] Total Workers & Active Workers (KPIs)
 
 Total Workers: 269M
 Total Active Workers: 175M
 
 ✅ Key Insight: Out of the total registered 269 million workers in NREGA, 175 million are currently active participants, indicating a substantial percentage (approximately 65%) of workers are actively engaged in the scheme. This highlights the ongoing relevance of NREGA in providing employment to rural workers.
 
-### ➤ 2. Total Job Cards & Active Job Cards (KPIs)
+### 2] Total Job Cards & Active Job Cards (KPIs)
 
 Total Job Cards Issued: 156M
 Total Active Job Cards: 97M
@@ -57,7 +57,7 @@ Total Active Job Cards: 97M
 ✅ Key Insight :
 156 million job cards issued, 97 million are active, signifying that about 62% of issued job cards are in active use. This reflects an overall healthy utilization of job cards within the NREGA framework, although it also raises the question of why 59 million job cards are not active, which could indicate seasonal or localized employment needs, or inactive registrations.
 
-### ➤ 3. State-wise Participation in NREGA (Choropleth Map)
+### 3] State-wise Participation in NREGA (Choropleth Map)
 
 Question Answered: 
 #### Which states have the most active NREGA participation?
@@ -67,7 +67,7 @@ Question Answered:
 - States with lighter shades, such as those in the northeast, indicate lower participation in NREGA, potentially due to smaller populations or fewer employment needs under this scheme.
 This visualization effectively shows the geographic distribution of NREGA workers, helping to identify regional areas where the program is most effective.
 
-### ➤ 4. Job Cards vs Active Workers by State (Bar Chart)
+### 4] Job Cards vs Active Workers by State (Bar Chart)
 
 Question Answered: 
 #### How are job cards and active workers spread across states?
@@ -77,7 +77,7 @@ Question Answered:
 - In contrast, other states like Himachal Pradesh and Punjab show a relatively lower number of job cards and active workers. This could indicate lower reliance on the NREGA scheme, possibly due to stronger -local economies or alternative employment sources.
 - The clear difference between job cards issued and active workers highlights states where workers might not be fully engaged despite the availability of job cards, giving policymakers insights into where activation efforts may be needed.
 
-### ➤ 5. SC/ST Worker Distribution (Stacked Bar Chart)
+### 5] SC/ST Worker Distribution (Stacked Bar Chart)
 
 Question Answered: 
 ####  What is the distribution of SC/ST workers among active workers?
@@ -86,7 +86,7 @@ Question Answered:
 - This chart reveals that states like West Bengal, Uttar Pradesh, and Rajasthan have a higher proportion of SC/ST workers in the active NREGA workforce. This suggests that the program is successfully reaching marginalized communities in these regions.
 - However, the chart also shows a significant proportion of "Other Workers" (non-SC/ST) in states such as Tamil Nadu and Karnataka, indicating less inclusion of marginalized groups in those regions. This disparity highlights potential areas for improvement in promoting SC/ST participation in those states.
 
-### ➤ 6. Job Card Issuance and Active Status (Horizontal Bar Chart)
+### 6] Job Card Issuance and Active Status (Horizontal Bar Chart)
 
 Question Answered: 
 ####  How many job cards have been issued and are active in each state?
@@ -95,7 +95,7 @@ Question Answered:
 -nBihar, Uttar Pradesh, and West Bengal top the list for both the number of job cards issued and the number of active job cards, reaffirming these states' heavy reliance on NREGA for rural employment.
 - This visualization underscores the effectiveness of job card distribution in these regions and suggests a strong engagement with the NREGA scheme. However, states with lower job card issuance and active participation, such as Haryana and Gujarat, might not be fully utilizing the program’s potential.
 
-### ➤ 7. SC/ST Worker Participation (Donut Chart)
+### 7] SC/ST Worker Participation (Donut Chart)
 
 Question Answered: 
 #### What is the distribution of SC/ST workers among active workers?
@@ -104,7 +104,7 @@ Question Answered:
 - The donut chart highlights that SC workers constitute 20.02% (35 million) and ST workers make up 16.47% (29 million) of the total active workforce, while "Other Workers" (non-SC/ST) account for 63.51% (111 million).
 - This distribution shows a fairly balanced participation of marginalized groups in NREGA, though non-SC/ST workers still form the majority. The visualization makes it clear that there is room to further increase SC/ST representation in the scheme, particularly in states where these workers make up a smaller proportion of the workforce.
 
-### ➤ 8. States with Highest Number of Active Workers (Column Chart)
+### 8] States with Highest Number of Active Workers (Column Chart)
 
 Question Answered: 
 #### Which states have the highest number of active workers?
@@ -133,25 +133,25 @@ Question Answered:
 
 The "Budget & Expenditure Analysis" dashboard provides a detailed breakdown of how NREGA (Mahatma Gandhi National Rural Employment Guarantee Act) funds are being spent across different states in India, the allocation of these funds, and which states and regions are more active in using the NREGA budget. Here's a simple explanation of each part with key insights:
 
-### ➤ 1. Total Expenditure (KPI)
+### 1] Total Expenditure (KPI)
 
 - Total Expenditure: The NREGA program has spent 5.47 million in total.
 
 - This key figure gives us an overview of how much has been used from the allocated budget for NREGA works and wages.
 
-### ➤ 2. Approved Labor Budget (KPI)
+### 2] Approved Labor Budget (KPI)
 
 - Approved Labor Budget: The total labor budget approved under NREGA is 2 billion.
   
 - This indicates how much the government has sanctioned for labor wages under NREGA.
 
-### ➤ 3. Gram Panchayats (GPs) with No NREGA Expenditure (KPI)
+### 3] Gram Panchayats (GPs) with No NREGA Expenditure (KPI)
 
 - 14K Gram Panchayats have not spent any of their NREGA budget.
 
 - This suggests that there are still rural areas where the funds allocated for NREGA haven’t been used, which may need further investigation to understand why.
 
-### ➤ 4. How is NREGA Expenditure Allocated? (Donut Chart)
+### 4] How is NREGA Expenditure Allocated? (Donut Chart)
 
 - 73.44% of the NREGA funds go to wages, indicating that most of the program’s money is going directly to workers.
   
@@ -159,7 +159,7 @@ The "Budget & Expenditure Analysis" dashboard provides a detailed breakdown of h
 
 This shows that a significant part of the NREGA budget is being used for labor and infrastructure projects, but a very small amount is used for administrative tasks.
 
-### ➤ 5. Works Breakdown (Donut Chart)
+### 5] Works Breakdown (Donut Chart)
 
 - 45.01% of the expenditure is on NRM (Natural Resource Management) works, showing that almost half of the spending goes into environmental and resource-related projects.
 - 
@@ -167,13 +167,13 @@ This shows that a significant part of the NREGA budget is being used for labor a
 - 
 - This distribution reflects the program’s focus on resource management and infrastructural development in rural areas.
 
-### ➤ 6. Gram Panchayats with No NREGA Expenditure by State (Bar Chart)
+### 6] Gram Panchayats with No NREGA Expenditure by State (Bar Chart)
 
 - West Bengal, Maharashtra, and Haryana have the highest number of Gram Panchayats that haven’t spent any NREGA funds (3,100 in West Bengal, 2,098 in Maharashtra).
   
 - This highlights areas where local governance may not be utilizing NREGA effectively, possibly due to local inefficiencies or lack of demand for labor.
 
-### ➤ 7. State-wise Total Expenditure Breakdown (Stacked Bar Chart)
+### 7] State-wise Total Expenditure Breakdown (Stacked Bar Chart)
 
 - This chart shows how each state allocates NREGA expenditure across admin, material, and wages.
  
@@ -181,7 +181,7 @@ This shows that a significant part of the NREGA budget is being used for labor a
 
 - This suggests that different states have varied priorities—some focus more on labor, while others focus on materials and infrastructure development.
 
-### ➤ 8. Highest NREGA Expenditure by State (Tree Map)
+### 8] Highest NREGA Expenditure by State (Tree Map)
 
 - Tamil Nadu (727.3M) has the highest NREGA expenditure, followed by Uttar Pradesh (667.83M) and Andhra Pradesh (680.81M).
 - 
@@ -189,7 +189,7 @@ This shows that a significant part of the NREGA budget is being used for labor a
 - 
 - This reflects that states with higher rural populations tend to spend more under the NREGA program, which means they have greater reliance on rural employment schemes.
 
-### ➤ 9. Highest NREGA Labor Budget by State (Bar Chart)
+### 9] Highest NREGA Labor Budget by State (Bar Chart)
 
 Andhra Pradesh (215M) and Uttar Pradesh (210M) have the largest labor budgets approved, followed by Madhya Pradesh and Rajasthan (200M).
 
@@ -211,41 +211,41 @@ This dashboard shows how well different states are utilizing the NREGA funds and
 
 The "Work & Employment Analysis" dashboard provides insights into employment, wage distribution, and work completion under the NREGA (Mahatma Gandhi National Rural Employment Guarantee Act) scheme across various states in India. Here's a simple breakdown of each section along with key insights:
 
-### ➤ 1. Average Days of Employment Provided per Household (Gauge Chart)
+### 1] Average Days of Employment Provided per Household (Gauge Chart)
 
 - On average, 22.87 days of employment are provided per household. The maximum potential could go up to 45.74 days.
   
 - This indicates that while some households are getting decent work under NREGA, there’s still room for improvement to provide more workdays.
   
-### ➤ 2. Average Wage Rate per Person (Gauge Chart)
+### 2] Average Wage Rate per Person (Gauge Chart)
 
 - The average wage rate for NREGA workers is ₹276.05 per person. The rate can vary from ₹0 to ₹552.10.
 
-While ₹276 is the average, wage rates differ widely across states, highlighting regional disparities in payment.
+- While ₹276 is the average, wage rates differ widely across states, highlighting regional disparities in payment.
 
-### ➤ 3. Number of Households (HHs) that Completed 100 Days of Employment (Gauge Chart)
+### 3] Number of Households (HHs) that Completed 100 Days of Employment (Gauge Chart)
 
-428,000 households have completed 100 days of employment under NREGA, which is a significant milestone for many families relying on this program for their livelihood.
+- 428,000 households have completed 100 days of employment under NREGA, which is a significant milestone for many families relying on this program for their livelihood.
 
-### ➤ 4. Total Works Taken Up (KPI)
+### 4] Total Works Taken Up (KPI)
 
 - 17 million works have been initiated under NREGA.
 
 - This is a substantial number of projects, showing the scale at which the program operates across rural areas in India.
   
-### ➤ 5. Total Differently-Abled Workers (KPI)
+### 5] Total Differently-Abled Workers (KPI)
 
 - 396,000 differently-abled workers have been employed under NREGA.
 
 - The program is inclusive, providing opportunities to differently-abled individuals, but there’s still scope to further expand their participation.
 
-### ➤ 6. Work Completion Analysis (Donut Chart)
+### 6] Work Completion Analysis (Donut Chart)
 
 - 77.87% of works are completed, and 22.13% are ongoing.
   
 - This shows that the majority of NREGA projects have been completed, but a considerable portion is still in progress.
   
-### ➤ 7. Workdays Between Active Social Groups (Donut Chart)
+### 7] Workdays Between Active Social Groups (Donut Chart)
 
 - 61.95% (979 million) of workdays are by SC (Scheduled Caste) individuals.
   
@@ -253,25 +253,25 @@ While ₹276 is the average, wage rates differ widely across states, highlightin
 - 
 - This reflects the participation of marginalized social groups in NREGA work, with SC individuals contributing the most workdays.
   
-### ➤ 8. States with the Highest Employment of Differently-Abled Workers (Bar Chart)
+### 8] States with the Highest Employment of Differently-Abled Workers (Bar Chart)
 
 - Tamil Nadu employs the most differently-abled workers (99K), followed by Andhra Pradesh (76K) and Telangana (40K).
   
 - This highlights that southern states are more active in employing differently-abled workers under NREGA.
   
-### ➤ 9. States Offering the Highest Average Days of Employment per Household (Bar Chart)
+### 9] States Offering the Highest Average Days of Employment per Household (Bar Chart)
 
 - Andhra Pradesh offers the highest average of 45 days per household, followed by Mizoram (38 days) and Tamil Nadu (37 days).
   
 - These states are providing more consistent employment opportunities than others.
   
-### ➤ 10. States with the Highest Number of Works Completed (Tree Map)
+### 10] States with the Highest Number of Works Completed (Tree Map)
 
 - Madhya Pradesh leads with 420K completed works, followed by Karnataka (414K) and Bihar (407K).
   
 - This indicates that these states have a high level of project completion under NREGA, successfully carrying out the program's objectives.
   
-### ➤ 11. Wage Rate per State (Table)
+### 11] Wage Rate per State (Table)
 
 - Manipur has the highest wage rate of ₹1,025.05, while other states like Andaman & Nicobar and Haryana follow with wages around ₹767.85 and ₹353.53 respectively.
   
@@ -302,7 +302,7 @@ States like Madhya Pradesh, Karnataka, and Bihar are excelling in completing NRE
 
 The "Overall State-wise Analysis" dashboard presents an in-depth comparison of various metrics related to the NREGA program across different Indian states. The following sections explain each column and key findings:
 
-### ➤ 1. Total Workers
+### 1] Total Workers
 
 - This shows the total number of workers enrolled under the NREGA program in each state.
 
@@ -310,7 +310,7 @@ The "Overall State-wise Analysis" dashboard presents an in-depth comparison of v
   
 - These states have a large rural population, hence the higher number of workers in the NREGA program.
   
-### ➤ 2. Total Active Workers
+### 2] Total Active Workers
    
 - This reflects the number of workers who are actively participating in NREGA.
 
@@ -318,13 +318,13 @@ The "Overall State-wise Analysis" dashboard presents an in-depth comparison of v
 
 - While many states have high total workers, not all are active, which could indicate underutilization of the program in certain areas.
 
-### ➤ 4. Works Taken 
+### 3] Works Taken 
 
 - Shows the number of projects or works initiated in each state under NREGA.
 
 - Uttar Pradesh leads with 2.266M works, followed by Bihar with 1.172M works and Madhya Pradesh with 1.240M works. These states are actively engaging workers through many projects.
   
-### ➤ 5. Completed Works
+### 4] Completed Works
 
 - This column represents the number of works completed in each state.
 
@@ -332,7 +332,7 @@ The "Overall State-wise Analysis" dashboard presents an in-depth comparison of v
   
 - This indicates that these states have efficient systems in place to complete projects.
   
-### ➤ 6. Ongoing Works
+### 5] Ongoing Works
 
 - Shows the number of projects still in progress.
 
@@ -340,7 +340,7 @@ The "Overall State-wise Analysis" dashboard presents an in-depth comparison of v
 
 - Rajasthan (588K) and Madhya Pradesh (819K) also have a significant number of ongoing works.
   
-### ➤ 7. Differently-Abled Workers
+### 7] Differently-Abled Workers
 
 - The number of differently-abled workers engaged under NREGA in each state.
 
@@ -348,7 +348,7 @@ The "Overall State-wise Analysis" dashboard presents an in-depth comparison of v
 
 - This shows that Tamil Nadu is taking steps to include differently-abled individuals in the workforce.
   
-### ➤ 8. Total HHs Worked (Total Households Worked)
+### 8] Total HHs Worked (Total Households Worked)
 
 - This indicates the number of households that have worked under NREGA.
 
@@ -356,7 +356,7 @@ The "Overall State-wise Analysis" dashboard presents an in-depth comparison of v
  
 - This highlights the program’s reach and its potential impact on rural households.
   
-### ➤ 9. Approved Labour Budget
+### 9] Approved Labour Budget
     
 - This represents the total approved budget for NREGA in each state.
 
@@ -366,7 +366,7 @@ The "Overall State-wise Analysis" dashboard presents an in-depth comparison of v
   
 - These high budget allocations show that these states have prioritized NREGA to provide employment.
   
-### ➤11. Total Expenditure
+### 11] Total Expenditure
 
 - This is the total amount of money spent by each state under NREGA.
 
