@@ -8,6 +8,20 @@
 
 - By examining the data, the project aims to highlight the effectiveness and reach of the NREGA scheme, especially among marginalized communities like SC/ST and differently-abled workers. Understanding these patterns helps in assessing the scheme's impact on rural employment and economic stability. The insights drawn from this analysis can guide policy improvements and ensure better implementation of the NREGA scheme. 
 
+### 💠 Problem Statement
+
+NREGA is a vital initiative to alleviate rural unemployment and poverty. This project seeks to address several key questions and challenges associated with NREGA:
+
+• How effective is NREGA in providing employment opportunities to rural households?
+
+• Are there regional disparities in the implementation and outcomes of the scheme?
+
+• What is the utilization of the allocated budget, and how does it correlate with employment generation?
+
+• What are the key factors contributing to the completion of NREGA works, and are there any roadblocks to its success?
+
+• Can data-driven insights guide policymakers and administrators in optimizing the scheme's impact?
+
 ### 💠 Data Source 
 
 - The data was provided as part of the tasks assigned during the internship, enabling in-depth analysis of employment and expenditure trends within the NREGA scheme.
