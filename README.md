@@ -24,12 +24,18 @@ NREGA is a vital initiative to alleviate rural unemployment and poverty. This pr
 
 ### 💠 Data Source 
 
-- The data was provided as part of the tasks assigned during the internship, enabling in-depth analysis of employment and expenditure trends within the NREGA scheme.
+- The dataset used for this analysis is sourced from official government records and contains information related to NREGA implementation across various states and districts in India.
+- 
+- It comprises 28 columns, encompassing data on job cards, worker details, budget allocation, work completion statistics, expenditure, and more. This dataset offers a comprehensive view of the progress and challenges faced by the NREGA program. 
+
 
 ### 💠 Tools 
 
-- Excel - Data Cleaning
+- Microsoft Excel - Data Cleaning & Transformation
+- MySQL - Data Analysis 
 - PowerBI- Creating Dashboards, Data Visualization
+- Canva - For creationg Project Report/Presentation
+- Github- For Documnetation
 
 
 ### 💠 Data Preparation
@@ -481,6 +487,37 @@ Conducting surveys with NREGA workers to gather insights on program effectivenes
 ➤ The scheme's inclusivity towards SC/ST and differently-abled workers is notable but requires continuous monitoring to ensure equitable benefits. 
 
 ➤ Overall, NREGA plays a crucial role in enhancing rural livelihoods, and these findings can inform better-targeted strategies for its effective implementation.
+
+
+# Explorartory Data Analysis with MySQL
+
+## Job Cards & Workers
+![6](https://github.com/user-attachments/assets/ebe82072-2f91-4f96-b1be-5833c481c4e4)
+![7](https://github.com/user-attachments/assets/967b6186-59a9-4207-94f4-b4cff4464542)
+![8](https://github.com/user-attachments/assets/19a17124-5b35-4192-930e-22572c97642b)
+![9](https://github.com/user-attachments/assets/924c03af-9d36-4f13-84a6-743524cf161c)
+
+## Works & Employement
+![10](https://github.com/user-attachments/assets/6e979e00-1872-42f1-a710-ed2954863ab0)
+![12](https://github.com/user-attachments/assets/21df7d89-0676-401c-9ffd-7c0f2196565c)
+![13](https://github.com/user-attachments/assets/8b902175-a3b6-44fe-a3e9-e90849504132)
+![14](https://github.com/user-attachments/assets/e5ef4feb-e9e9-4694-980e-8f54509095e2)
+![15](https://github.com/user-attachments/assets/7727d595-c453-4005-88b6-f30cb6a2f4ef)
+![16](https://github.com/user-attachments/assets/54f91d21-331c-4980-9c4d-49dcea21b7ac)
+![17](https://github.com/user-attachments/assets/ea57f062-72f0-4793-a537-4f5b66726273)
+![18](https://github.com/user-attachments/assets/eda0e0d6-ab7d-4dee-85b6-ab7f5967819b)
+
+## Budget & Expenditure
+![19](https://github.com/user-attachments/assets/3110a87a-5ef5-4cbd-b9e4-e5ea337bfe67)
+![20](https://github.com/user-attachments/assets/1f55a444-5616-4dd0-a32d-411cb7f5a855)
+![21](https://github.com/user-attachments/assets/6e8dd55e-349d-408d-81b8-06fec5e19041)
+![22](https://github.com/user-attachments/assets/382fd55b-17e8-4746-8fdb-d96cde43986e)
+![23](https://github.com/user-attachments/assets/0a136969-5d54-4626-a05f-e359ce389423)
+![24](https://github.com/user-attachments/assets/d7536f60-4ed3-4961-bdda-64e061960bbb)
+![25](https://github.com/user-attachments/assets/3221a115-ee6d-49d7-b5d7-e5604c5ebc7e)
+![26](https://github.com/user-attachments/assets/6644cb0f-20e6-4558-bf54-223372674bad)
+![27](https://github.com/user-attachments/assets/44fb7131-0e08-41ad-9aa4-c6a584dae41d)
+![28](https://github.com/user-attachments/assets/abf6d6ad-0c6c-4ef4-818a-02b7a77c612c)
 
 
 
