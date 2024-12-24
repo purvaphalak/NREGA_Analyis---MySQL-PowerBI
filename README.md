@@ -1,4 +1,4 @@
-# NREGA ( National Rural Employment Guarantee Act) Analysis || Power-BI
+# NREGA ( National Rural Employment Guarantee Act) Analysis || Power-BI, MySQL
 
 ### 💠 Project Overview
 
